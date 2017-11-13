@@ -13,7 +13,7 @@ CASE_ID = 'I-200-17283-283733'
 HOMEPAGE = 'https://icert.doleta.gov/index.cfm?event=ehRegister.caseStatusSearch'
 KPMG = 'https://www.kpmglaw.ca/Gips_Client'
 USER = 'sWANG920'
-PASS = '-%fan;{p[%m*LT'
+PASS = '********'
 driver = webdriver.Chrome('chromedriver.exe')
 driver_2 = webdriver.Chrome('chromedriver.exe')
 
